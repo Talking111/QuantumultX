@@ -14,7 +14,7 @@ const url = "https://testflight.apple.com/join/";
 */
 //const appkey = "VCIvwk2g,1SyedSId";
 
-const appkey = "VCIvwk2g,sCFLBVoZ";
+const appkey = "VCIvwk2g,1SyedSId";
 
 //是否在没有tf位置的时候仍然弹出通知，默认不弹出,防止过多无用通知。
 var isNOtify = getdata('testflight_isnotify');
