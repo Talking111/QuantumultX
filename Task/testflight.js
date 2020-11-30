@@ -12,7 +12,7 @@ const url = "https://testflight.apple.com/join/";
  * 填入要监测的appkey。从testfligt地址获取。
  * 例如"VCIvwk2g,wArXdacJ,2vnRvOTX,LzjySbQx,IdFRwmNy,qDkBu2ur,4Qt2lIm5,ZzqOu8tX,ftCqFe6D,fy7LvHVA,QKqitFwc"
 */
-//const appkey = "VCIvwk2g,1G3zEeId,fy7LvHVA,flDiG5AU,DpujKg3U";
+//const appkey = "VCIvwk2g,1SyedSId";
 
 const appkey = "VCIvwk2g,1SyedSId,fy7LvHVA,flDiG5AU,DpujKg3U,sCFLBVoZ";
 
